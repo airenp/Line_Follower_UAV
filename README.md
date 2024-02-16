@@ -26,6 +26,6 @@ Needed for this algorithm:
 - **Parrot mini drone**
 - **MATLAB** with Simulink and Computer Vision Toolbox
 
-<a href="https://youtu.be/wZgRxUjh_iI
-" target="_blank"><img src="http://img.youtube.com/vi/wZgRxUjh_iI.jpg" 
+<a href="https://youtu.be/BRCNUI4dF_Q
+" target="_blank"><img src="http://img.youtube.com/vi/BRCNUI4dF_Q" 
 alt="UAV Line Follower" width="240" height="180" border="10" /></a>
